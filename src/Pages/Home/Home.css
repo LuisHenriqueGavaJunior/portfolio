@@ -1,0 +1,174 @@
+.Home{
+    margin-bottom: 23vh;
+}
+
+.Homesection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 7vh;
+}
+
+.Homeinfo{
+    font-size: 4vh;
+    line-height: 2vh;
+    color:aliceblue;}
+
+.Homepic{
+    height: 58vh;
+    width: 58vh;
+    padding-left: 1vh;
+    padding-top: 10vh;
+}
+
+.Homeinfospecial{
+    color: #15FFFD;
+    display: block;
+    padding-left: 1vh;
+}
+
+.Homedesc{
+    font-size: 2vh;
+    width: 85vh;
+    margin-top: 2vh;
+}
+
+.Homespecial{
+    margin-top: -2vh ;
+    display: flex;
+}
+
+.Homeespecialbutton{
+    background-color: #15FFFD;
+    border-radius: 3vh;
+    width: 23vh;
+    height: 6vh;
+    margin-top: -1vh;
+}
+
+.Homecontacttext{
+    margin: -1vh;
+    font-size: 2.5vh;
+    color: rgb(52, 52, 52);
+}
+.Homesmicon{
+    width: 5vh;
+    padding-bottom: 4vh;
+    padding-right: 2vh;
+    margin-top: -1vh;
+}
+
+/* About section */
+
+.Aboutsection{
+    justify-content: center;
+    align-items: center;
+    color:aliceblue;
+    font-size: 4vh;
+    display: flex;
+    margin-top: 10vh;
+}
+
+.Aboutinfos{
+    margin-left: 5vh;
+}
+
+.Hometitles{
+    text-align: center;
+    margin-left: 57.5vh;
+}
+
+.Skillssection{
+    color:aliceblue;
+    align-items: center;
+    font-size: 5vh;
+    margin-left: 15vh;
+    text-align: center;
+    margin-top: 18vh;
+}
+
+.Skillcards{
+    display: flex;
+    margin-bottom: 20vh;
+}
+
+.Skillcard{
+    height: 50vh;
+    width: 43vh;
+    margin-left: 11vh;
+    border-radius: 5vh;
+    margin-top: 3vh;
+    background-color: #5b5959;
+}
+
+.Skillreadbutton{
+    margin-top: 11vh;
+    background-color: #15FFFD;
+    border-radius: 5vh;
+    width: 30vh;
+    height: 7vh;
+    border: none;
+    border-color: none;
+}
+
+.Skillreadtext{
+    font-size: 3vh;
+    color: rgb(52, 52, 52);
+    margin-top: 1.7vh;
+
+}
+
+.Skillcardtitle{
+    font-size: 3.5vh;
+    margin-top: 1vh;
+}
+
+.Skillcarddesc{
+    font-size: 2.4vh;
+    font-weight: 400vh;
+    height: 5vh;
+    text-align: center;
+    padding-left: 4vh;
+    padding-right: 4vh;
+}
+
+.Skillicon{
+    height: 8vh;
+    margin-top: 2.5vh;
+}
+
+.Projectssection{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    color:aliceblue;
+    font-size: 5vh;
+    display: block;
+    margin-left: 30vh;
+}
+
+.ProjectsLayer1{
+    display: flex;
+    border-color: none;
+}
+
+.ProjectsLayer2{
+    margin-top: 2vh;
+    display: flex;
+}
+
+.Project{
+    background-color: #15FFFD;
+    width: 45vh;
+    height: 30vh;
+    margin-left: 2vh;
+    border-radius: 5vh;
+    padding-left: 5vh;
+    border: none;
+    border-color: none;
+}
+
+.Projecttitle{
+    display: flex;
+    margin-left: 41vh;
+}

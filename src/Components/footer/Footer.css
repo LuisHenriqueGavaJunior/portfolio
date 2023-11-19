@@ -1,0 +1,31 @@
+.Footer{
+    margin-top: -4vh;
+    background-color: #20232D;
+    height: 19vh;
+    text-align: left;
+    padding-left: 2vh;
+}
+
+.HContent{
+    display: flex;
+}
+
+.FooterSocialM{
+    margin-top: 8vh;
+}
+
+.FooterIcons{
+    margin-top: 7vh;
+    color: aliceblue;
+    margin-left: 10vh;
+}
+
+.Footertext{
+    font-size: 3vh;
+    margin-top: -9vh;
+    margin-left: 40vh;
+}
+
+.Footerlinks{
+    display: flex;
+}
